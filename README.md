@@ -21,14 +21,13 @@
 
 ## 📁 Featured Projects
 
+## 📁 Featured Projects
+
 🔹 [Portfolio Optimizer App](https://github.com/SamanDadkhah/portfolio-optimizer)  
-Interactive Streamlit dashboard for building optimal portfolios using the Sharpe Ratio and real financial data.
+Streamlit app for constructing and visualizing optimized financial portfolios using the Sharpe Ratio, yfinance data, and interactive charts.
 
-🔹 Signature Methods for Finance (Private for now)  
-Research-based project for pricing path-dependent contracts using advanced feature extraction from time series.
-
-🔹 ML Model Evaluation – MNIST & Custom Datasets  
-Notebook-based experiments comparing SVM, KNN, CNN, and Random Forest on accuracy and visual decision boundaries.
+🔹 [Graph Dating Recommender](https://github.com/SamanDadkhah/graph-dating-recommender)  
+Graph-based recommendation system using Node2Vec and link prediction techniques to simulate potential matches in online dating networks.
 
 ---
 
