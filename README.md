@@ -11,6 +11,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue?style=flat-square&logo=scikit-learn)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-orange?style=flat-square&logo=tensorflow&logoColor=white)
 ![Finance](https://img.shields.io/badge/-Finance-darkgreen?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
