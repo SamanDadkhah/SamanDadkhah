@@ -42,10 +42,10 @@ Data Visualization · Machine Learning Pipelines · GitHub Projects
 🔹 [Graph-Based Dating Recommender](https://github.com/SamanDadkhah/graph-dating-recommender)  
 🔗 Graph-based recommendation system using Node2Vec and link prediction techniques for social network match prediction.
 
-🔹 [NLP University Project](https://github.com/SamanDadkhah/nlp-university-project)  
+🔹 [NLP University Project](https://github.com/SamanDadkhah/NLP-Project)  
 🧠 Text preprocessing, classification, and information extraction using spaCy, NLTK, and scikit-learn.
 
-🔹 [MNIST ML Project](https://github.com/SamanDadkhah/mnist-ml-project)  
+🔹 [MNIST ML Project](https://github.com/SamanDadkhah/mnist-ml)  
 🔢 Digit classification using classic machine learning models (KNN, SVM, Naive Bayes, Logistic Regression) on MNIST.
 
 🔹 Thesis Project: Machine Learning for American-Style Path-Dependent Contracts  
