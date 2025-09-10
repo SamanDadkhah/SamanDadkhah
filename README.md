@@ -7,27 +7,50 @@
 
 ---
 
-## 🔧 Technical Skills & Tools
+## 🛠️ Skills & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue?style=flat-square&logo=scikit-learn)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-orange?style=flat-square&logo=tensorflow&logoColor=white)
-![Finance](https://img.shields.io/badge/-Finance-darkgreen?style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+**Languages & Tools:**  
+Python · Git · Jupyter Notebook · Streamlit · Git · VS Code
+
+**Data Science & ML:**  
+NumPy · Pandas · scikit-learn · Matplotlib · Seaborn · TensorFlow · Keras · PyTorch
+
+**Deep Learning & AI:**  
+LSTM · Reinforcement Learning (SARSA) · Neural Networks · Transfer Learning
+
+**Natural Language Processing (NLP):**  
+spaCy · NLTK · Text Classification · Named Entity Recognition
+
+**Finance & Quantitative Analysis:**  
+Portfolio Optimization · Volatility Forecasting · Time-Series Analysis · Trading Algorithms
+
+**Other:**  
+Data Visualization · Machine Learning Pipelines · GitHub Projects
+
+- 🎯 Fun fact: I enjoy decoding complex financial behavior almost as much as debugging code.
 
 ---
 
 ## 📁 Featured Projects
 
-## 📁 Featured Projects
+🔹 [AI & Finance Trading Agent](https://github.com/SamanDadkhah/ai-finance-trading-agent)  
+📈 LSTM-based volatility prediction and SARSA trading agent for intraday financial decision making.
 
 🔹 [Portfolio Optimizer App](https://github.com/SamanDadkhah/portfolio-optimizer)  
-Streamlit app for constructing and visualizing optimized financial portfolios using the Sharpe Ratio, yfinance data, and interactive charts.
+📊 Streamlit app for constructing and visualizing optimized financial portfolios using Sharpe Ratio and yfinance data.
 
-🔹 [Graph Dating Recommender](https://github.com/SamanDadkhah/graph-dating-recommender)  
-Graph-based recommendation system using Node2Vec and link prediction techniques to simulate potential matches in online dating networks.
+🔹 [Graph-Based Dating Recommender](https://github.com/SamanDadkhah/graph-dating-recommender)  
+🔗 Graph-based recommendation system using Node2Vec and link prediction techniques for social network match prediction.
+
+🔹 [NLP University Project](https://github.com/SamanDadkhah/nlp-university-project)  
+🧠 Text preprocessing, classification, and information extraction using spaCy, NLTK, and scikit-learn.
+
+🔹 [MNIST ML Project](https://github.com/SamanDadkhah/mnist-ml-project)  
+🔢 Digit classification using classic machine learning models (KNN, SVM, Naive Bayes, Logistic Regression) on MNIST.
+
+🔹 Thesis Project: Machine Learning for American-Style Path-Dependent Contracts  
+📚 Research-driven project using **signature methods** for pricing early-exercise financial derivatives.  
+🛠️ In progress · Paper preparation + implementation under way
 
 ---
 
