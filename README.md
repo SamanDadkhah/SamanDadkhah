@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Saman Dadkhah
 
 🎓 Master's in Artificial Intelligence @ University of Verona  
-📊 Focused on AI + Quantitative Finance + Signature Methods  
 🧠 Thesis: Machine Learning for American-style Path-Dependent Contracts using Signature Features  
-📍 Based in Italy | Aspiring to build a global career in AI + Finance
+📍 Based in Italy | Aspiring to build a global career
 
 ---
 
