@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Saman Dadkhah
 
 🎓 Master's in Artificial Intelligence @ University of Verona  
-🧠 Thesis: Machine Learning for American-style Path-Dependent Contracts using Signature Features  
+🧠 Thesis: Machine Learning methods for American-style Path-Dependent Contracts using Signature Method
 📍 Based in Italy | Aspiring to build a global career
 
 ---
@@ -9,7 +9,7 @@
 ## 🛠️ Skills & Tools
 
 **Languages & Tools:**  
-Python · Git · Jupyter Notebook · Streamlit · Git · VS Code
+Python · Git · Jupyter Notebook · Streamlit ·
 
 **Data Science & ML:**  
 NumPy · Pandas · scikit-learn · Matplotlib · Seaborn · TensorFlow · Keras · PyTorch
@@ -56,4 +56,3 @@ Data Visualization · Machine Learning Pipelines · GitHub Projects
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/saman-dadkhah/)
-- 📧 samandadkhah@gmail.com
