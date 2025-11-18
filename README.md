@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Saman Dadkhah
 
 🎓 Master's in Artificial Intelligence @ University of Verona  
-🧠 Thesis: Machine Learning methods for American-style Path-Dependent Contracts using Signature Method
+🧠 Thesis: Machine Learning methods for American-style Path-Dependent Contracts using Signature Method  
 📍 Based in Italy | Aspiring to build a global career
 
 ---
