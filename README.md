@@ -1,58 +1,79 @@
-# 👋 I, Saman Dadkhah
+# Saman Dadkhah
 
-🎓 Master's in Artificial Intelligence @ University of Verona  
-🧠 Thesis: Machine Learning methods for American-style Path-Dependent Contracts using Signature Method  
-📍 Based in Italy | Aspiring to build a global career
+MSc Artificial Intelligence graduate at the University of Verona, building practical projects in Python, data engineering, applied AI, and backend/data services.
 
 ---
 
-## 🛠️ Skills & Tools
-
-**Languages & Tools:**  
-Python · Git · Jupyter Notebook · Streamlit ·
-
-**Data Science & ML:**  
-NumPy · Pandas · scikit-learn · Matplotlib · Seaborn · TensorFlow · Keras · PyTorch
-
-**Deep Learning & AI:**  
-LSTM · Reinforcement Learning (SARSA) · Neural Networks · Transfer Learning
-
-**Natural Language Processing (NLP):**  
-spaCy · NLTK · Text Classification · Named Entity Recognition
-
-**Finance & Quantitative Analysis:**  
-Portfolio Optimization · Volatility Forecasting · Time-Series Analysis · Trading Algorithms
-
-**Other:**  
-Data Visualization · Machine Learning Pipelines · GitHub Projects
-
-- 🎯 Fun fact: I enjoy decoding complex financial behavior almost as much as debugging code.
+## Technical Focus
+- Machine Learning and Deep Learning
+- Python-based software and data workflows
+- Backend/data services and REST APIs
+- SQL and PostgreSQL
+- Data processing, analytics, and visualization
+- Docker, Git, and reproducible project workflows
+- Applied AI in finance, data platforms, and business-oriented solutions
 
 ---
 
-## 📁 Featured Projects
+## Skills & Tools
 
-🔹 [AI & Finance Trading Agent](https://github.com/SamanDadkhah/ai-finance-trading-agent)  
-📈 LSTM-based volatility prediction and SARSA trading agent for intraday financial decision making.
+**Languages & Backend**  
+Python · REST APIs · SQL · PostgreSQL
 
-🔹 [Portfolio Optimizer App](https://github.com/SamanDadkhah/portfolio-optimizer)  
-📊 Streamlit app for constructing and visualizing optimized financial portfolios using Sharpe Ratio and yfinance data.
+**Data & Analytics**  
+Pandas · NumPy · Matplotlib · Streamlit · Data Pipelines
 
-🔹 [Graph-Based Dating Recommender](https://github.com/SamanDadkhah/graph-dating-recommender)  
-🔗 Graph-based recommendation system using Node2Vec and link prediction techniques for social network match prediction.
+**Machine Learning / AI**  
+scikit-learn · TensorFlow · PyTorch · Machine Learning · Deep Learning · NLP
 
-🔹 [NLP University Project](https://github.com/SamanDadkhah/NLP-Project)  
-🧠 Text preprocessing, classification, and information extraction using spaCy, NLTK, and scikit-learn.
-
-🔹 [MNIST ML Project](https://github.com/SamanDadkhah/mnist-ml)  
-🔢 Digit classification using classic machine learning models (KNN, SVM, Naive Bayes, Logistic Regression) on MNIST.
-
-🔹 Thesis Project: Machine Learning for American-Style Path-Dependent Contracts  
-📚 Research-driven project using **signature methods** for pricing early-exercise financial derivatives.  
-🛠️ In progress · Paper preparation + implementation under way
+**DevOps & Tools**  
+Docker · Git · GitHub
 
 ---
 
-## 📫 Let's Connect
+## Featured Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/saman-dadkhah/)
+### Streaming Data Pipeline & Dashboard
+End-to-end streaming data pipeline for computing and visualizing the Effective Drought Index (EDI) from daily precipitation data.
+
+Built with Python, Kafka, Parquet, Pandas, Docker, and Streamlit.  
+Includes streaming ingestion, windowed processing, curated analytics-ready datasets, dashboard filtering, trend visualization, class summaries, and basic latency monitoring.
+
+---
+
+### American-Style Option Pricing Engine
+Python codebase for pricing American-style path-dependent contracts using Longstaff-Schwartz Monte Carlo (LSMC).
+
+Includes Monte Carlo simulation, payoff functions for Asian and Lookback contracts, feature engineering, regression-based continuation value estimation, and signature features.
+
+---
+
+### AI-Finance Trading Agent
+LSTM-based volatility forecasting and SARSA reinforcement-learning trading agent for intraday financial decision-making experiments.
+
+Repository: [ai-finance-trading-agent](https://github.com/SamanDadkhah/ai-finance-trading-agent)
+
+---
+
+### Portfolio Optimizer
+Streamlit app for simulating random-weight portfolios, computing expected return, volatility, and Sharpe Ratio, and visualizing the efficient frontier and optimal allocation.
+
+Repository: [portfolio-optimizer](https://github.com/SamanDadkhah/portfolio-optimizer)
+
+---
+
+## Current Direction
+
+I am currently focused on strengthening my profile for junior technical roles, especially in:
+
+- Python backend / backend-data roles
+- Data and analytics engineering
+- AI-enabled software
+- Technical consulting and implementation roles
+
+---
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/saman-dadkhah](https://www.linkedin.com/in/saman-dadkhah/)
+- GitHub: [github.com/SamanDadkhah](https://github.com/SamanDadkhah)
