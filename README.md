@@ -1,7 +1,6 @@
 # Saman Dadkhah
 
-MSc Artificial Intelligence graduate at the University of Verona, building practical projects in Python, data engineering, applied AI, and backend/data services.
-
+MSc Artificial Intelligence candidate at the University of Verona, building practical projects in Python, data pipelines, software development, and applied AI. Currently strengthening my backend and data engineering skills through hands-on project development.
 ---
 
 ## Technical Focus
