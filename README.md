@@ -18,16 +18,16 @@ MSc Artificial Intelligence graduate at the University of Verona, building pract
 ## Skills & Tools
 
 **Languages & Backend**  
-Python · REST APIs · SQL · PostgreSQL
+Python · REST APIs · SQL
 
 **Data & Analytics**  
 Pandas · NumPy · Matplotlib · Streamlit · Data Pipelines
 
-**Machine Learning / AI**  
-scikit-learn · TensorFlow · PyTorch · Machine Learning · Deep Learning · NLP
+**Machine Learning**  
+· Machine Learning · Deep Learning · NLP
 
 **DevOps & Tools**  
-Docker · Git · GitHub
+Git · GitHub
 
 ---
 
