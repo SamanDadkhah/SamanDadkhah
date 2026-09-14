@@ -4,13 +4,14 @@ MSc Artificial Intelligence candidate at the University of Verona, building prac
 ---
 
 ## Technical Focus
-Python software development and data pipelines
-Backend development fundamentals and HTTP
-SQL and relational databases
-Data processing, analytics, and visualization
-Git/GitHub and version-control workflows
-Docker and reproducible development environments
-Machine Learning and Deep Learning
+
+- Python software development and data pipelines
+- Backend development fundamentals and HTTP
+- SQL and relational databases
+- Data processing, analytics, and visualization
+- Git/GitHub and version-control workflows
+- Docker and reproducible development environments
+- Machine Learning and Deep Learning
 
 ---
 
