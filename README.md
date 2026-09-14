@@ -16,17 +16,17 @@ MSc Artificial Intelligence candidate at the University of Verona, building prac
 
 ## Skills & Tools
 
-**Languages & Backend**  
-Python · REST APIs · SQL
+**Programming**  
+Python
 
-**Data & Analytics**  
-Pandas · NumPy · Matplotlib · Streamlit · Data Pipelines
+**Backend & Data Fundamentals**  
+HTTP · Requests · SQL · Relational Databases · Web Scraping · Beautiful Soup
 
-**Machine Learning**  
-· Machine Learning · Deep Learning · NLP
+**Data & Machine Learning**  
+Pandas · NumPy · scikit-learn · TensorFlow · PyTorch · Matplotlib · Streamlit
 
-**DevOps & Tools**  
-Git · GitHub
+**Engineering Tools**  
+Git · GitHub · Docker · Apache Kafka
 
 ---
 
