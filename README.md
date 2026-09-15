@@ -33,6 +33,17 @@ Git · GitHub · Docker · Apache Kafka
 
 ## Featured Projects
 
+### Gaszajoo — Financial Market Data Pipeline
+
+Modular Python pipeline for collecting, parsing, normalizing, and storing financial-market data from public web sources.
+
+Built with Python, Requests, Beautiful Soup, SQLite, `pathlib`, and `pytest`. Includes timestamped raw-data snapshots, locale-aware normalization, JSON/CSV exports, idempotent database inserts, and indexed historical queries.
+
+Repository: [Gaszajoo](https://github.com/SamanDadkhah/Gaszajoo)
+
+---
+
+
 ### Streaming Data Pipeline & Dashboard
 End-to-end streaming data pipeline for computing and visualizing the Effective Drought Index (EDI) from daily precipitation data.
 
