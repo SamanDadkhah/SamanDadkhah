@@ -50,6 +50,8 @@ End-to-end streaming data pipeline for computing and visualizing the Effective D
 Built with Python, Kafka, Parquet, Pandas, Docker, and Streamlit.  
 Includes streaming ingestion, windowed processing, curated analytics-ready datasets, dashboard filtering, trend visualization, class summaries, and basic latency monitoring.
 
+Repository: [streaming-data-pipeline-dashboard](https://github.com/SamanDadkhah/streaming-data-pipeline-dashboard)
+
 ---
 
 ### American-Style Option Pricing Engine
